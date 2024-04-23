@@ -3,10 +3,8 @@
 <div  align="center" style="margin-bottom:100px">
 <a href="https://beacons.ai/AdlerCastro">
 <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Edgar-Klewert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height= "140em" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Klewert&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height= "180em" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Klewert&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
