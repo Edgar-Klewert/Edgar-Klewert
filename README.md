@@ -1,7 +1,7 @@
 ### Hello!, I'm Edgar Klewert 👋
 
 <div align="center">
-  <a href="https://github.com/Mateus-Batista12">
+  <a href="https://github.com/Edgar-Klewert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edgar-Klewert&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Klewert&layout=compact&langs_count=7&theme=dracula"/>
 </div>
