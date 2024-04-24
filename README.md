@@ -2,11 +2,8 @@
 
 ##
 
-<div  align="center" style="margin-bottom:100px">
-  <a href="https://github.com/Edgar-Klewert">
-  <img height= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Edgar-Klewert&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height= "140em" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Klewert&layout=compact&langs_count=16&theme=transparent"/>
-</div>
+  ![Edgar Klewert GitHub stats](https://github-readme-stats.vercel.app/api?username=Edgar-Klewert&show_icons=true&theme=transparent)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edgar-Klewert&size_weight=0.5&count_weight=0.5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
