@@ -1,12 +1,12 @@
 <h2 align="left">Hello!, I'm Edgar Klewert 👋</h2>
 
-- 🚀 **Computer Engineering student (5th semester)** // Estudante de Engenharia da Computação (5º período)  
-- 💡 **Focused on Java, Python, React, JavaScript, and databases** // Foco em Java, Python, React, JavaScript e bancos de dados  
-- 🧠 **Software Engineering and Data Analysis** // Engenharia de Software e Análise de Dados  
-- 📱 **Web & Mobile Development** // Desenvolvimento Web e Mobile  
-- 📚 **Learning more about software architecture and best practices** // Aprendendo mais sobre arquitetura de software e boas práticas  
-- 🌐 **Passionate about technology and innovation** // Apaixonado por tecnologia e inovação  
-- 📍 **Pronouns: He/Him** // Pronomes: Ele/Dele
+- 🚀 **Computer Engineering student**
+- 💡 **Focused on Java, Python, React, JavaScript, and SQL(Postgres and MySQL)**
+- 🧠 **Software Engineering and Data Analysis**  
+- 📱 **Web & Mobile Development** 
+- 📚 **Learning more about software architecture and best practices** 
+- 🌐 **Passionate about technology and innovation** 
+- 📍 **Pronouns: He/Him**
 
 
 ###
