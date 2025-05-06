@@ -4,7 +4,6 @@
 - 💡 **Focused on Java, Python, React, JavaScript, and databases** // Foco em Java, Python, React, JavaScript e bancos de dados  
 - 🧠 **Software Engineering and Data Analysis** // Engenharia de Software e Análise de Dados  
 - 📱 **Web & Mobile Development** // Desenvolvimento Web e Mobile  
-- 🛠️ **Tech Lead in academic projects** // Tech Lead em projetos acadêmicos  
 - 📚 **Learning more about software architecture and best practices** // Aprendendo mais sobre arquitetura de software e boas práticas  
 - 🌐 **Passionate about technology and innovation** // Apaixonado por tecnologia e inovação  
 - 📍 **Pronouns: He/Him** // Pronomes: Ele/Dele
