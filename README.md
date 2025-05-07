@@ -2,12 +2,9 @@
 
 - 🚀 **Computer Engineering student**
 - 💡 **Focused on Java, Python, React, JavaScript, and SQL(Postgres and MySQL)**
-- 🧠 **Software Engineering and Data Analysis**  
-- 📱 **Web & Mobile Development** 
+- 🧠 **Software Engineering and Data Analysis**   
 - 📚 **Learning more about software architecture and best practices** 
 - 🌐 **Passionate about technology and innovation** 
-- 📍 **Pronouns: He/Him**
-
 
 ###
 
