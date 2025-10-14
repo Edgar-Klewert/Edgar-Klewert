@@ -1,54 +1,56 @@
-<h2 align="center">Hello!, I'm Edgar Klewert 👋</h2>
+<h3 align="center">Hello!, I'm Edgar Klewert 👋</h3>
 
 ###
 
-<h6 align="left">🚀 Computer Engineering student<br>💡 Focused on Java, Python, React, JavaScript, and SQL(Postgres and MySQL)<br>🧠 Software Engineering and Data Analysis<br>📚 Learning more about software architecture and best practices<br>🌐 Passionate about technology and innovation</h6>
+<p align="center">💡 Computer Engineer with strong knowledge in Java, Python, React, JS/TS and SQL/NoSQL databases.<br>🔐 Focused on DevSecOps, Cloud Computing, and Software Security.<br>🧠 Solid understanding of software architecture, automation, and development best practices.<br>☁️ Experience with CI/CD pipelines, cloud infrastructure, and security in distributed systems.<br>🌐 Passionate about technology, innovation, and building reliable, scalable, and secure solutions.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edgar-Klewert&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edgar-Klewert&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edgar-Klewert&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edgar-Klewert&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="1" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring" height="25" alt="spring logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=angular" height="25" alt="angularjs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"  />
-  <img width="10" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="jupyter logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cs" height="25" alt="csharp logo"  />
-  <img width="10" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="25" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="25" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="25" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="25" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="25" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="25" alt="azure logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="25" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo"  />
-  <img width="10" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="25" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="25" alt="spring logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="25" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="25" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="25" alt="firebase logo"  />
-  <img width="10" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="25" alt="linux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="25" alt="oracle logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="25" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="25" alt="redhat logo"  />
 </div>
 
 ###
