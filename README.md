@@ -2,16 +2,27 @@
 
 ###
 
-<p align="center">💡 Computer Engineer with strong knowledge in Java, Python, React, JS/TS and SQL/NoSQL databases.<br>🔐 Focused on DevSecOps, Cloud Computing, and Software Security.<br>🧠 Solid understanding of software architecture, automation, and development best practices.<br>☁️ Experience with CI/CD pipelines, cloud infrastructure, and security in distributed systems.<br>🌐 Passionate about technology, innovation, and building reliable, scalable, and secure solutions.</p>
+<p align="center">
+  💡 Computer Engineer with strong knowledge in Java, Python, React, JS/TS and SQL/NoSQL databases.<br>
+  🔐 Focused on DevSecOps, Cloud Computing, and Software Security.<br>
+  🧠 Solid understanding of software architecture, automation, and development best practices.<br>
+  ☁️ Experience with CI/CD pipelines, cloud infrastructure, and security in distributed systems.<br>
+  🌐 Passionate about technology, innovation, and building reliable, scalable, and secure solutions.
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edgar-Klewert&show_icons=true&theme=github_dark&hide_border=true&locale=en" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edgar-Klewert&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Edgar-Klewert&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&locale=en&cache_seconds=1800" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Edgar-Klewert&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edgar-Klewert&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&area=true&hide_border=true" height="250" alt="activity graph" />
+</div>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="25" alt="java logo"  />
