@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-  💡 Computer Engineer with strong knowledge in Java, Python, React, JS/TS and SQL/NoSQL databases.<br>
+  💡 Graduating Computer Engineer with extensive knowledge in Java, Python, React, JS/TS and SQL/NoSQL databases.<br>
   🔐 Focused on DevSecOps, Cloud Computing, and Software Security.<br>
   🧠 Solid understanding of software architecture, automation, and development best practices.<br>
   ☁️ Experience with CI/CD pipelines, cloud infrastructure, and security in distributed systems.<br>
